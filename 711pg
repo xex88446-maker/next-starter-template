@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>711PG | OKVIP</title>
+<link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+    body {
+        margin: 0;
+        font-family: 'Prompt', sans-serif;
+        background: linear-gradient(#dff2ff, #c5e7ff);
+        color: #000;
+        overflow-x: hidden;
+    }
+    .container {
+        max-width: 520px;
+        margin: auto;
+        padding: 15px;
+        text-align: center;
+    }
+    .logo { width: 80%; max-width: 360px; margin: 20px auto; }
+    /* รูปภาพตัวละคร ถูกใช้เป็นภาพโปรโมชั่นหลัก */
+    .character { width: 92%; max-width: 440px; margin: 5px auto 10px; } 
+    /* ซ่อน Hero Text เนื่องจากข้อความหลักอยู่ในรูปภาพแล้ว */
+    .hero-text { display: none; } 
+    .btn-register {
+        display: inline-block;
+        background: #ffffff;
+        color: #000;
+        font-size: 20px;
+        font-weight: 600;
+        padding: 14px 26px;
+        border-radius: 14px;
+        border: 3px solid #2ecc71;
+        box-shadow: 0px 4px 14px rgba(0,0,0,0.18);
+        text-decoration: none;
+        margin-top: 18px;
+    }
+    .btn-register:hover { background: #f2fff4; }
+    .section-img { width: 92%; max-width: 440px; margin: 28px auto 12px; }
+    .section-text { font-size: 17px; line-height: 1.65; padding: 0 12px; margin-bottom: 25px; }
+    
+    /* สไตล์สำหรับส่วนโปรโมชั่นย่อยใหม่ */
+    .promo-highlight {
+        font-weight: 600;
+        color: #1e8449; /* สีเขียวเข้มเพื่อเน้นโปรโมชั่น */
+        padding: 5px 0;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <img src="https://711pg.pages.dev/711PG-OKVIP.png" class="logo">
+    
+    <img src="**[ใส่ URL รูปภาพโปรโมชั่นที่คุณอัปโหลดแล้ว]**" class="character">
+
+    <div class="hero-text"></div>
+
+    <a href="https://www.711pg33.vip/m/register?r=yme4984" class="btn-register">
+        ลงทะเบียนวันนี้รับฟรี 27.7
+    </a>
+
+    <img src="https://711pg.pages.dev/Text_mobile.png" class="section-img">
+    <div class="section-text">
+        <span class="promo-highlight">🎉 โปรโมชั่นเด็ดสำหรับสมาชิกใหม่ 🎉</span><br>
+        • **ฝากครั้งแรก** รับเพิ่ม **188 บาท**<br>
+        • **แนะนำเพื่อน** รับเพิ่ม **108 บาท**<br>
+        <br>
+        • ระบบพรีเมียมจาก OKVIP เสถียรที่สุดในไทย<br>
+        • ฝากถอนออโต้เร็วเพียง 3 วินาที
+    </div>
+
+    <img src="https://711pg.pages.dev/711_model_3.webp" class="section-img">
+    <div class="section-text">
+        • รวมเกมสล็อตแตกง่ายจากค่ายดังคุณภาพสูง<br>
+        • เกมใหม่อัปเดตทุกสัปดาห์ เล่นได้ไม่มีเบื่อ<br>
+        • รองรับมือถือทุกรุ่น เล่นลื่นไหลตลอด 24 ชม.
+    </div>
+
+    <img src="https://711pg.pages.dev/711_model_1.webp" class="section-img">
+    <div class="section-text">
+        • ทีมงานมืออาชีพดูแลลูกค้าแบบ VIP<br>
+        • เว็บเปิดจริง เชื่อถือได้ ปลอดภัย 100%<br>
+        • ระบบใช้งานง่าย เหมาะกับผู้เล่นทุกระดับ
+    </div>
+
+    <img src="https://711pg.pages.dev/711_model_4.webp" class="section-img">
+    <div class="section-text">
+        • สมัครสมาชิกฟรี ไม่มีค่าใช้จ่ายแอบแฝง<br>
+        • รองรับทุกธนาคารและวอลเล็ท<br>
+        • มีโปรให้สมาชิกใหม่และสมาชิกประจำทุกวัน
+    </div>
+
+</div>
+</body>
+</html>
